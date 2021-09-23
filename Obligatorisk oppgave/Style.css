@@ -1,0 +1,40 @@
+body 
+{
+    background-color: rgba(216, 216, 216, 0.65);
+   
+    height: auto;
+    width: auto;
+}
+
+
+#chart 
+{
+    
+    box-shadow: 10px 6px 8px rgb(59, 59, 59);
+    
+}
+
+.btn 
+{
+    background-color: rgb(173, 173, 173);
+    cursor: pointer;
+    box-shadow: 10px 6px 8px rgb(0, 0, 0);
+    font-size: 190%;
+    font-family: monospace;
+    border: inset
+    
+    
+
+}
+:hover.btn 
+{
+    background-color: rgba(31, 17, 17, 0.445);
+    color:ghostwhite
+}
+
+i
+{
+    color:rgb(56, 56, 56);
+    font-size: 180%;
+    font-family: monospace;
+}
